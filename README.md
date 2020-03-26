@@ -368,7 +368,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | [Allgemeinverfügung Einstellung des Bildungsbetriebs und Schließung Kinderbetreuung](http://schule-sachsen.de/20_03_16_Allgemeinverfuegung_Corona_Kita_Schulen.pdf)                    | 18.03.2020 | 17.04.2020                     | Gültig |
 | [Maßnahmen anlässlich der Corona-Pandemie: Verbot von Veranstaltungen](https://www.staatsregierung.sachsen.de/download/allgv-corona-veranstaltungen.pdf)                               | 19.03.2020 | 20.04.2020                     | Gültig |
 | [Aussetzung Präsenzpflicht Vorbereitungsdienst](http://schule-sachsen.de/20_03_15_Erlass_Praesenzpflicht_Staatspruefungen.pdf)                                                         | 17.03.2020 | analog Aussetzung Schulbetrieb | Gültig |
-| [Allgemeinverfügung Vollzug des Infektionsschutzgesetzes Maßnahmen anlässlich der Corona-Pandemie](hhttps://www.laenderrecht.de/media/upload//0207%20-%20SaechsABl_SDr_2020-05_LV.pdf) | 20.03.2020 | 20.04.2020                     | Gültig |
+| [Allgemeinverfügung Vollzug des Infektionsschutzgesetzes Maßnahmen anlässlich der Corona-Pandemie](https://www.laenderrecht.de/media/upload//0207%20-%20SaechsABl_SDr_2020-05_LV.pdf) | 20.03.2020 | 20.04.2020                     | Gültig |
 | [AllgV zu Kontaktbeschränkungen](https://www.coronavirus.sachsen.de/download/AllgV-Corona-Ausgangsbeschraenkungen_22032020.pdf)                                                        | 23.03.2020 | 06.04.2020                     | Gültig |
 |                                                                                                                                                                                        |            |                                |        |
 
